@@ -23,6 +23,7 @@ iframe{max-width:100%;border:0}
 body.kontakt{background:#0F3D2E;color:#fff}
 body.kontakt a{color:#D2F24C}
 body.kontakt a:hover{color:#fff}
+body.kontakt a.c294:hover{color:#0B1F17}
 body.kontakt a:focus-visible,body.kontakt button:focus-visible{outline-color:#D2F24C}
 
 .om-article p a, .om-article li a { text-decoration:underline; }
