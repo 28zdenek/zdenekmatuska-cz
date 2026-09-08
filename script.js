@@ -22,3 +22,20 @@ document.addEventListener('DOMContentLoaded',function(){
   if(next)next.addEventListener('click',function(){show(page>=pages?1:page+1);});
   show(1);
 });
+
+document.addEventListener('DOMContentLoaded',function(){
+  document.querySelectorAll('.om-nav').forEach(function(nav){
+    var toggle=nav.querySelector('.om-nav-toggle'),links=nav.querySelector('.om-nav-links');
+    if(!toggle||!links)return;
+    toggle.addEventListener('click',function(){
+      var open=nav.classList.toggle('om-nav-open');
+      toggle.setAttribute('aria-expanded',open?'true':'false');
+    });
+    links.querySelectorAll('a').forEach(function(a){
+      a.addEventListener('click',function(){
+        nav.classList.remove('om-nav-open');
+        toggle.setAttribute('aria-expanded','false');
+      });
+    });
+  });
+});
