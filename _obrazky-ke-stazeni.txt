@@ -1,0 +1,33 @@
+Stáhněte tyto soubory do složky /images/ pod uvedeným názvem:
+
+název souboru	zdrojová URL
+affilbox-web-1024x553.png	https://www.zdenekmatuska.cz/wp-content/uploads/2021/11/affilbox-web-1024x553.png
+affiliate-navod-druha-cast-1024x523.png	https://www.zdenekmatuska.cz/wp-content/uploads/2020/11/Affiliate-návod-druhá-část-1024x523.png
+affiliate-navod-uvod-1-1024x529.png	https://www.zdenekmatuska.cz/wp-content/uploads/2020/11/Affiliate-navod-uvod-1-1024x529.png
+affiliate-rixo.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/affiliate-rixo.jpg
+bez-nazvu-2-1.png	https://www.zdenekmatuska.cz/wp-content/uploads/2020/05/Bez-názvu-2-1.png
+canvaa-1024x441.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2023/12/canvaa-1024x441.jpg
+cbd-nahled-1-1024x683.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2021/03/cbd-nahled-1-1024x683.jpg
+cerny-a-zeleny-tipy-profesionalni-prezentace-1.png	https://www.zdenekmatuska.cz/wp-content/uploads/2020/11/%C4%8Cern%C3%BD-a-Zelen%C3%BD-Tipy-Profesion%C3%A1ln%C3%AD-Prezentace-1.png
+cerny-a-zeleny-tipy-profesionalni-prezentace-1.png	https://www.zdenekmatuska.cz/wp-content/uploads/2020/11/Černý-a-Zelený-Tipy-Profesionální-Prezentace-1.png
+co-je-to-affiliatemarketing.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2021/11/co-je-to-affiliatemarketing.jpg
+cookies.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2022/01/cookies.jpg
+cropped-logo-matuska-zdenek.png	https://www.zdenekmatuska.cz/wp-content/uploads/2023/08/cropped-logo-matuska-zdenek.png
+deposit-odkaz-1024x82.png	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/deposit-odkaz-1024x82.png
+diskuzni-odkazy-1024x336.png	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/diskuzni-odkazy-1024x336.png
+entrepreneur-working-on-his-macbook-2-picjumbo-com-scaled.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2020/05/entrepreneur-working-on-his-macbook-2-picjumbo-com-scaled.jpg
+filmy-pro-marketery.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2024/01/Filmy-pro-marketery.jpg
+google-alert-1024x816.png	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/google-alert-1024x816.png
+img-9743-1-1024x768.jpeg	https://www.zdenekmatuska.cz/wp-content/uploads/2020/05/IMG_9743-1-1024x768.jpeg
+linkbuilding-cz.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/linkbuilding-cz.jpg
+odkaz-google-e1679435707828-1024x364.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/odkaz-google-e1679435707828-1024x364.jpg
+odkaz-z-webu-obce-1024x576.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/odkaz-z-webu-obce-1024x576.jpg
+open-ai-reklama.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2026/09/open-ai-reklama.jpg
+openai-overeni-1024x647.png	https://www.zdenekmatuska.cz/wp-content/uploads/2026/09/openai-overeni-1024x647.png
+p8nj-1024x211.png	https://www.zdenekmatuska.cz/wp-content/uploads/2020/05/P8NJ-1024x211.png
+photopea-1024x512.png	https://www.zdenekmatuska.cz/wp-content/uploads/2023/12/photopea-1024x512.png
+recenze-srovnavace-pojisteni-1-1024x576.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/Recenze-srovnavace-pojisteni-1-1024x576.jpg
+rixo-affiliateprogram.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/Rixo-affiliateprogram.jpg
+school-exterior-960.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2026/08/school-exterior-960.jpg
+trello-recenze.jpg	https://www.zdenekmatuska.cz/wp-content/uploads/2023/09/trello-recenze.jpg
+vitalia-zdroje-1024x224.png	https://www.zdenekmatuska.cz/wp-content/uploads/2023/03/vitalia-zdroje-1024x224.png
