@@ -1,0 +1,81 @@
+{
+  "_navod": "Nová reference = nový záznam NAHORU do seznamu 'reference'. Pak spustit: python3 _reference/vygeneruj.py. 'vyber' určuje, které tři reference se na dané stránce ukážou velké s obrázkem; ostatní jdou do seznamu pod nimi.",
+  "vyber": {
+    "tvorba-webovych-stranek-breclav": [
+      "yezedo",
+      "kosik",
+      "ukosiku"
+    ],
+    "tvorba-webovych-stranek-hodonin": [
+      "yezedo",
+      "kosik",
+      "ukosiku"
+    ]
+  },
+  "reference": [
+    {
+      "id": "yezedo",
+      "nazev": "Yezedo Kostice",
+      "url": "https://www.yezedokostice.cz/",
+      "typ": "Průmyslová zóna",
+      "misto": "Kostice u Břeclavi",
+      "rok": "2026",
+      "obrazek": "/images/yezedo-kostice-web.webp",
+      "obrazek_rozmer": [
+        1200,
+        750
+      ],
+      "zadani": "web pro novou průmyslovou zónu — haly k pronájmu, služby areálu a dokumenty pro investory na jednom místě.",
+      "vysledek": "rychlý web bez redakčního systému s galerií projektu a podklady ke stažení, spuštěný v říjnu 2026.",
+      "vysledek_kratce": "Spuštěno 10/2026",
+      "stitky": [
+        "Návrh webu",
+        "Kódování",
+        "Nasazení a SEO"
+      ],
+      "novinka": true
+    },
+    {
+      "id": "kosik",
+      "nazev": "Kosík vinařství",
+      "url": "https://www.kosikvinarstvi.cz",
+      "typ": "E-shop vinařství",
+      "misto": "Tvrdonice",
+      "rok": "",
+      "obrazek": "/images/kosik-vinarstvi-web.webp",
+      "obrazek_rozmer": [
+        1200,
+        750
+      ],
+      "zadani": "navrhnout strukturu e-shopu a postavit kompletní marketingovou strategii.",
+      "vysledek": "z 20 objednávek měsíčně jsou dnes pravidelně nižší stovky. E-shop dál ladím podle toho, jak se na něm zákazníci chovají, a starám se o celý marketingový mix.",
+      "vysledek_kratce": "20 → stovky objednávek / měsíc",
+      "stitky": [
+        "Struktura e-shopu",
+        "Marketingová strategie",
+        "Ladění podle dat",
+        "Marketingový mix"
+      ]
+    },
+    {
+      "id": "ukosiku",
+      "nazev": "UKosiku.cz",
+      "url": "https://ukosiku.cz",
+      "typ": "Web penzionu",
+      "misto": "",
+      "rok": "",
+      "obrazek": "/images/ukosiku-web-hero.webp",
+      "obrazek_rozmer": [
+        1200,
+        750
+      ],
+      "zadani": "nový web s rezervačním formulářem.",
+      "vysledek": "+63 % rezervací a ušetřené poplatky přes Booking.",
+      "vysledek_kratce": "+63 % rezervací",
+      "stitky": [
+        "Web",
+        "Rezervace"
+      ]
+    }
+  ]
+}
