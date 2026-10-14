@@ -23,7 +23,7 @@ def karta(r):
     stitky = "".join(f"<li>{escape(s)}</li>" for s in r["stitky"])
     return f"""
       <article class="ref-card">
-        <a class="ref-shot" href="{escape(r['url'])}" rel="noopener" tabindex="-1" aria-hidden="true">
+        <a class="ref-shot" href="{escape(r['url'])}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
           <img loading="lazy" decoding="async" src="{escape(r['obrazek'])}" width="{sirka}" height="{vyska}" alt="{escape(r['nazev'])} — realizace, tvorba webových stránek">
         </a>
         <div class="ref-body">
@@ -34,14 +34,14 @@ def karta(r):
             <div class="ref-result"><dt>Výsledek</dt><dd>{escape(r['vysledek'])}</dd></div>
           </dl>
           <ul class="ref-tags">{stitky}</ul>
-          <a class="ref-link" href="{escape(r['url'])}" rel="noopener">Prohlédnout web ↗</a>
+          <a class="ref-link" href="{escape(r['url'])}" target="_blank" rel="noopener">Prohlédnout web ↗</a>
         </div>
       </article>"""
 
 
 def radek(r):
     return f"""
-        <li><a class="ref-row" href="{escape(r['url'])}" rel="noopener">
+        <li><a class="ref-row" href="{escape(r['url'])}" target="_blank" rel="noopener">
           <span class="ref-row-name">{escape(r['nazev'])}</span>
           <span class="ref-row-type">{escape(popis(r, s_rokem=False))}</span>
           <span class="ref-row-kpi">{escape(r['vysledek_kratce'])}</span>
