@@ -467,3 +467,36 @@ body.kontakt a.om-skip,body.kontakt a.om-skip:hover{color:var(--ink)}
 }
 @media (prefers-reduced-motion:reduce){.ref-card:hover .ref-shot img{transform:none}}
 @media (pointer:coarse){.ref-link{display:inline-flex;align-items:center;min-height:44px}}
+
+/* Případová studie (online-marketing-breclav) */
+.om-case-wrap{padding-top:clamp(64px,8vw,120px)}
+.om-case{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);background:var(--forest);border-radius:28px;overflow:hidden;box-shadow:0 12px 40px rgba(15,61,46,0.18)}
+.om-case-text{padding:clamp(24px,3vw,40px);color:#fff;display:flex;flex-direction:column;align-items:flex-start}
+.om-case-logo{display:inline-flex;background:#fff;border-radius:8px;padding:8px 12px;margin-bottom:18px}
+.om-case-logo img{height:24px;width:auto;display:block}
+.om-case-eyebrow{font-size:14px;color:var(--mist);margin:0 0 10px;letter-spacing:.01em}
+.om-case-title{font-size:clamp(24px,2.5vw,32px);line-height:1.15;letter-spacing:-0.02em;font-weight:700;color:#fff;margin:0 0 20px;text-wrap:balance}
+.om-case-lead{font-size:16px;line-height:1.65;color:var(--mist);margin:0 0 24px;max-width:520px}
+.om-case-stats{display:grid;grid-template-columns:repeat(3,auto);gap:12px 28px;margin:0 0 22px;padding:18px 0 0;border-top:1px solid rgba(255,255,255,.14);width:100%}
+.om-case-stats div{display:flex;flex-direction:column-reverse}
+.om-case-stats dd{margin:0;font-size:clamp(24px,2.4vw,30px);font-weight:700;color:var(--lime);font-variant-numeric:tabular-nums;line-height:1.15}
+.om-case-stats dt{font-size:13px;color:var(--mist)}
+.om-case-cta{display:flex;flex-wrap:wrap;align-items:center;gap:12px 24px}
+.om-case-cta .c100:hover{background:var(--lime-hover)}
+.om-case-link{color:#fff;font-size:15px;font-weight:500;text-decoration:underline;text-underline-offset:3px}
+.om-case-note{font-size:12px;color:rgba(221,233,227,.7);margin:16px 0 0}
+.om-case-photo{position:relative;min-height:260px}
+.om-case-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:35% 60%}
+.om-case a:focus-visible{outline-color:var(--lime)}
+.om-biz{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+@media (max-width:860px){
+  .om-case{grid-template-columns:1fr}
+  .om-case-photo{order:-1;min-height:0;aspect-ratio:2/1}
+  .om-biz{grid-template-columns:1fr}
+}
+.om-case-cta .c100{white-space:nowrap}
+@media (max-width:420px){.om-case-stats{gap:12px 20px}.om-case-cta .c100{padding:15px 22px;font-size:15px}}
+.om-home-local{margin:16px 0 0;display:flex;flex-wrap:wrap;gap:6px 16px;font-size:14px;font-weight:500}
+.om-home-local a{color:var(--lime)}
+.om-home-local a:hover{text-decoration:underline}
+.om-home-local a:focus-visible{outline-color:var(--lime)}
