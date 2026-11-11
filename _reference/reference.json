@@ -2,17 +2,40 @@
   "_navod": "Nová reference = nový záznam NAHORU do seznamu 'reference'. Pak spustit: python3 _reference/vygeneruj.py. 'vyber' určuje, které tři reference se na dané stránce ukážou velké s obrázkem; ostatní jdou do seznamu pod nimi.",
   "vyber": {
     "tvorba-webovych-stranek-breclav": [
-      "filipkova",
+      "panspocital",
       "yezedo",
       "kosik"
     ],
     "tvorba-webovych-stranek-hodonin": [
-      "filipkova",
+      "panspocital",
       "yezedo",
       "kosik"
     ]
   },
   "reference": [
+    {
+      "id": "panspocital",
+      "nazev": "Pan Spočítal",
+      "url": "https://panspocital.cz/",
+      "typ": "Hypotéky a finance",
+      "misto": "",
+      "rok": "2026",
+      "obrazek": "/images/panspocital-web.webp",
+      "obrazek_rozmer": [
+        1200,
+        750
+      ],
+      "zadani": "vymyslet značku pro srovnání hypoték a postavit kolem ní web, který z návštěvníka udělá poptávku.",
+      "vysledek": "název a maskot Pan Spočítal s celou rodinou postav, vlastní design systém, ilustrace ke každé službě a hypoteční kalkulačka ve dvou krocích.",
+      "vysledek_kratce": "Značka + web",
+      "stitky": [
+        "Naming",
+        "Maskot a ilustrace",
+        "Design systém",
+        "Kalkulačky"
+      ],
+      "novinka": true
+    },
     {
       "id": "filipkova",
       "nazev": "Filípek & Filípková",
@@ -33,8 +56,28 @@
         "Kódování",
         "CZ + EN",
         "Nasazení a SEO"
+      ]
+    },
+    {
+      "id": "ajmanagement",
+      "nazev": "AJ Management",
+      "url": "https://www.aj-management.at/",
+      "typ": "Personální agentura, zdravotnictví",
+      "misto": "Rakousko",
+      "rok": "2026",
+      "obrazek": "/images/aj-management-web.webp",
+      "obrazek_rozmer": [
+        1200,
+        750
       ],
-      "novinka": true
+      "zadani": "redesign webu personální agentury pro lékaře, sestry a terapeuty v Rakousku.",
+      "vysledek": "web v němčině, češtině a angličtině s nabídkami práce, filtrem podle regionu a online přihláškou, spuštěný v říjnu 2026.",
+      "vysledek_kratce": "3 jazyky, spuštěno 10/2026",
+      "stitky": [
+        "Redesign",
+        "WordPress",
+        "DE + CZ + EN"
+      ]
     },
     {
       "id": "yezedo",
