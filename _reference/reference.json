@@ -2,17 +2,40 @@
   "_navod": "Nová reference = nový záznam NAHORU do seznamu 'reference'. Pak spustit: python3 _reference/vygeneruj.py. 'vyber' určuje, které tři reference se na dané stránce ukážou velké s obrázkem; ostatní jdou do seznamu pod nimi.",
   "vyber": {
     "tvorba-webovych-stranek-breclav": [
+      "filipkova",
       "yezedo",
-      "kosik",
-      "ukosiku"
+      "kosik"
     ],
     "tvorba-webovych-stranek-hodonin": [
+      "filipkova",
       "yezedo",
-      "kosik",
-      "ukosiku"
+      "kosik"
     ]
   },
   "reference": [
+    {
+      "id": "filipkova",
+      "nazev": "Filípek & Filípková",
+      "url": "https://filipkova.cz/",
+      "typ": "Účetní kancelář",
+      "misto": "Břeclav",
+      "rok": "2026",
+      "obrazek": "/images/filipkova-web.webp",
+      "obrazek_rozmer": [
+        1200,
+        750
+      ],
+      "zadani": "nahradit zastaralý WordPress webem, který osloví české firmy i zahraniční majitele a nabídne sídlo firmy v Břeclavi jako samostatnou službu.",
+      "vysledek": "nový web v češtině i angličtině s ceníkem sídla a sdílené kanceláře, spuštěný v listopadu 2026. Doména sidlobreclav.cz vede rovnou na nabídku sídla.",
+      "vysledek_kratce": "Spuštěno 11/2026",
+      "stitky": [
+        "Návrh webu",
+        "Kódování",
+        "CZ + EN",
+        "Nasazení a SEO"
+      ],
+      "novinka": true
+    },
     {
       "id": "yezedo",
       "nazev": "Yezedo Kostice",
@@ -32,8 +55,7 @@
         "Návrh webu",
         "Kódování",
         "Nasazení a SEO"
-      ],
-      "novinka": true
+      ]
     },
     {
       "id": "kosik",
